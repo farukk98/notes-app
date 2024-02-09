@@ -19,7 +19,7 @@ const List = () => {
                     <textarea name="id" {...register("searchInput")} className="m-4 h-10 resize-none"/ >
                 </form>
             </div>
-        </div>
+        </div> 
      );
 }
  
