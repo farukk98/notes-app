@@ -12,8 +12,8 @@ const Navbar = () => {
     }
 
     return (  
-        <nav className="bg-green-300 px-8 py-4 items-center justify-between flex">
-            <h2 className="text-2xl font-semibold">
+        <nav className="bg-yellow-200 px-8 py-4 items-center justify-between flex">
+            <h2 className="text-2xl text-blue-400 font-semibold">
                 My Notes
             </h2>
             <div className="bg-white font-semibold mx-8 w-52 h-6"> 
